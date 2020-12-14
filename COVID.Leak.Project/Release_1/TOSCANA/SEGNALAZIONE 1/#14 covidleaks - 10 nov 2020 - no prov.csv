@@ -1,0 +1,1007 @@
+Note,Sede,Eta,Pratica_Caso,Tipo,Laboratorio,Provenienza,Comune,Provincia,Sesso,Risultato,Data_Evento,Data_Accettazione,Data_Validazione_Clinica,Carico
+Contatto di Caso - Conviventi,,6,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:09,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,10,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:09,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,In attesa di conferma di laboratorio,20,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,03/11/2020 11:13,03/11/2020,03/11/2020,10/11/2020
+,,15,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+,,98,NO,Ospedale,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+,,94,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:59,07/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:56,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,54,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 15:48,05/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:21,06/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:25,06/11/2020,09/11/2020,10/11/2020
+,,1,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:07,06/11/2020,09/11/2020,10/11/2020
+,,17,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:36,05/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:55,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,40,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:52,05/11/2020,09/11/2020,10/11/2020
+,,7,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:15,05/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:59,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 03:44,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,47,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 05:47,08/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:53,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PI,M,RILEVATO,09/11/2020 08:27,05/11/2020,09/11/2020,10/11/2020
+,,30,NO,Ospedale,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 00:34,08/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,62,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PI,M,Positivo a bassa carica,04/11/2020 10:48,03/11/2020,04/11/2020,10/11/2020
+,,53,NO,Ospedale,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 21:30,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 20:30,09/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 09:42,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,49,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PI,M,RILEVATO,09/11/2020 17:08,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,13,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 09:40,05/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 12:03,09/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 21:25,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:31,09/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:52,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:52,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,12,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:43,05/11/2020,09/11/2020,10/11/2020
+,,14,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:15,05/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,30/10/2020 07:40,27/10/2020,30/10/2020,10/11/2020
+,,49,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:55,08/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:01,05/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 04:02,08/11/2020,09/11/2020,10/11/2020
+,,79,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:18,08/11/2020,09/11/2020,10/11/2020
+,,17,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 04:03,08/11/2020,09/11/2020,10/11/2020
+,,83,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 21:23,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,13,SI,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 07:19,08/11/2020,09/11/2020,10/11/2020
+,,45,SI,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 03:44,08/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:00,05/11/2020,09/11/2020,10/11/2020
+,,100,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:59,07/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,35,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 03:44,08/11/2020,09/11/2020,10/11/2020
+,,2,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:11,05/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:16,08/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:48,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:49,05/11/2020,09/11/2020,10/11/2020
+,,79,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:17,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,20,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:53,05/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:51,05/11/2020,09/11/2020,10/11/2020
+,,10,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:12,05/11/2020,09/11/2020,10/11/2020
+,,42,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:57,08/11/2020,09/11/2020,10/11/2020
+,,73,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:53,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:56,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,In attesa di conferma di laboratorio,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo a Bassa Carica,04/11/2020 16:54,02/11/2020,04/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:26,06/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:44,05/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:51,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,In attesa di conferma di laboratorio,16,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo a bassa carica,04/11/2020 07:06,02/11/2020,04/11/2020,10/11/2020
+,,16,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:38,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,42,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 15:51,05/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 15:39,02/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:30,09/11/2020,09/11/2020,10/11/2020
+,,78,NO,Ospedale,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 18:26,09/11/2020,09/11/2020,10/11/2020
+,,82,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:17,08/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:17,08/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo a bassa carica,08/11/2020 07:31,07/11/2020,08/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:17,08/11/2020,09/11/2020,10/11/2020
+,,72,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:38,08/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 21:23,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 15:49,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:37,05/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:53,05/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:25,06/11/2020,09/11/2020,10/11/2020
+,,85,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:57,08/11/2020,09/11/2020,10/11/2020
+,,5,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:39,05/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:48,08/11/2020,09/11/2020,10/11/2020
+,,9,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:06,05/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:45,05/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 05:36,09/11/2020,09/11/2020,10/11/2020
+,,76,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:07,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,52,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,FI,F,RILEVATO,09/11/2020 13:28,05/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:23,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,24,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:49,05/11/2020,09/11/2020,10/11/2020
+,,13,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:10,06/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:05,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 12:18,09/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:47,05/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 15:46,05/11/2020,09/11/2020,10/11/2020
+,,18,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:55,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,In attesa di conferma di laboratorio,50,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo a bassa carica,03/11/2020 09:56,02/11/2020,03/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 16:29,05/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:31,09/11/2020,09/11/2020,10/11/2020
+,,11,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:16,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,72,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:18,08/11/2020,09/11/2020,10/11/2020
+,,48,NO,Ospedale,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 15:46,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,5,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:36,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,12,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:44,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,45,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:41,05/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 07:00,08/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 21:31,09/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:12,07/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:56,09/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:10,07/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,16,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:43,05/11/2020,09/11/2020,10/11/2020
+,,12,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:00,05/11/2020,09/11/2020,10/11/2020
+,,10,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:34,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,16,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:16,05/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,10/11/2020 13:29,09/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:54,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,57,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:20,06/11/2020,09/11/2020,10/11/2020
+,,22,NO,Ospedale,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:08,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,13,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:57,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,11,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:50,05/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:32,09/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:32,09/11/2020,09/11/2020,10/11/2020
+,,75,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:54,08/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 09:44,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,10,NO,Territorio,Lab. GROSSETO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 03:49,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,18,NO,Territorio,Lab. GROSSETO,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 03:49,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 20:18,08/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 20:18,08/11/2020,09/11/2020,10/11/2020
+,,80,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 20:17,07/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,38,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PI,M,Positivo a bassa carica,03/11/2020 04:29,02/11/2020,03/11/2020,10/11/2020
+Contatto di Caso - Familiari,,10,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 10:16,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,8,SI,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 10:02,05/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 08:05,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PI,F,RILEVATO,09/11/2020 08:29,05/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 20:31,09/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 01:16,08/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 05:00,08/11/2020,09/11/2020,10/11/2020
+,,84,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 20:17,07/11/2020,09/11/2020,10/11/2020
+,,59,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 17:30,09/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 09:41,05/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 09:55,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 20:30,09/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 21:00,09/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PI,F,RILEVATO,09/11/2020 13:29,05/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 21:00,09/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PI,F,RILEVATO,09/11/2020 13:29,05/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 20:10,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,14,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 15:52,06/11/2020,09/11/2020,10/11/2020
+,,75,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 09:42,05/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 17:54,06/11/2020,09/11/2020,10/11/2020
+,,92,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 09:14,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,6,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 21:25,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,6,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 20:20,09/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 07:17,08/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 09:41,05/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 21:28,09/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 04:03,08/11/2020,09/11/2020,10/11/2020
+,,40,NO,Ospedale,Lab. VIAREGGIO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 13:21,09/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,7,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PI,M,Positivo a Bassa Carica,04/11/2020 23:30,03/11/2020,04/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,32,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PI,F,Positivo a bassa carica,03/11/2020 08:50,31/10/2020,03/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PI,F,RILEVATO,09/11/2020 13:30,05/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 15:50,05/11/2020,09/11/2020,10/11/2020
+,,15,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 10:16,05/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 21:00,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,16,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PI,M,Positivo a bassa carica,30/10/2020 07:40,27/10/2020,30/10/2020,10/11/2020
+,,57,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 17:54,06/11/2020,09/11/2020,10/11/2020
+,,57,SI,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 05:36,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 20:30,09/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 20:21,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,26,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 09:19,06/11/2020,09/11/2020,10/11/2020
+,,83,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 02:38,08/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PI,M,Positivo,10/11/2020 13:23,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 06:52,09/11/2020,09/11/2020,10/11/2020
+,,17,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PI,F,Positivo,10/11/2020 13:21,09/11/2020,09/11/2020,10/11/2020
+,,12,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,M,Positivo,09/11/2020 15:49,05/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PI,F,Positivo,09/11/2020 15:48,05/11/2020,09/11/2020,10/11/2020
+,,69,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:57,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 16:13,02/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 03:44,08/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:44,05/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:54,05/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:50,05/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:52,05/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,14,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo a Bassa Carica,04/11/2020 21:26,03/11/2020,04/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 16:28,05/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:39,06/11/2020,09/11/2020,10/11/2020
+,,49,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:26,09/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,10/11/2020 13:20,09/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:28,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:21,09/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:19,08/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,21,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,,Positivo,09/11/2020 22:38,09/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:32,08/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:33,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,26,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 14:15,08/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:32,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:29,08/11/2020,09/11/2020,10/11/2020
+,,20,NO,Ospedale,Lab. AOUMeyer,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:36,09/11/2020,09/11/2020,10/11/2020
+,,88,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:09,08/11/2020,09/11/2020,10/11/2020
+,,5,NO,Ospedale,Lab. AOUMeyer,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 16:15,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,26,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,90,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,75,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:20,08/11/2020,09/11/2020,10/11/2020
+,,53,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:08,08/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:53,09/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:15,09/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 18:33,05/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 13:34,02/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:30,09/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:53,09/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,10/11/2020 13:21,09/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:55,07/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,54,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:58,07/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:11,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:55,07/11/2020,09/11/2020,10/11/2020
+,,81,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:09,08/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:13,06/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:47,09/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:32,09/11/2020,09/11/2020,10/11/2020
+,,40,SI,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:26,09/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,FI,M,RILEVATO,09/11/2020 17:09,05/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:26,09/11/2020,09/11/2020,10/11/2020
+,,83,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 12:22,09/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:22,09/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:58,07/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. AOUMeyer,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:22,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:58,07/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:32,08/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:29,09/11/2020,09/11/2020,10/11/2020
+,,39,NO,Ospedale,Lab. AREZZO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:40,07/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:28,09/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:29,09/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:39,06/11/2020,09/11/2020,10/11/2020
+,,22,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:29,09/11/2020,09/11/2020,10/11/2020
+,,63,NO,Ospedale,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:02,09/11/2020,09/11/2020,10/11/2020
+,,38,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:39,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. AREZZO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:33,07/11/2020,09/11/2020,10/11/2020
+,,92,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,91,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,34,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:09,08/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:52,09/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:07,08/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. BIOCONTROL,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:14,06/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. GROSSETO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:28,08/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:29,09/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:44,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 07:17,08/11/2020,09/11/2020,10/11/2020
+,,13,NO,Territorio,Lab. AOUMeyer,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:44,08/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 12:16,09/11/2020,09/11/2020,10/11/2020
+,,31,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 13:33,02/11/2020,09/11/2020,10/11/2020
+,,44,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:07,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,27,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:55,09/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,78,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:54,08/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:53,09/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:24,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:14,09/11/2020,09/11/2020,10/11/2020
+,,80,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 03:46,09/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:52,09/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:18,08/11/2020,09/11/2020,10/11/2020
+,,93,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:16,08/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:16,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,40,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:09,08/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 11:01,06/11/2020,09/11/2020,10/11/2020
+,,88,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:16,08/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:32,08/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:25,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,45,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:32,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,18,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:52,09/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:24,06/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:39,06/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:57,07/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:53,07/11/2020,09/11/2020,10/11/2020
+,,95,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:16,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 18:24,09/11/2020,09/11/2020,10/11/2020
+,,23,SI,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 13:33,02/11/2020,09/11/2020,10/11/2020
+,,23,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:21,09/11/2020,09/11/2020,10/11/2020
+,,71,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 13:34,03/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,53,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:24,09/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:16,08/11/2020,09/11/2020,10/11/2020
+,,53,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:39,09/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 11:33,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,34,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:15,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,19,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:39,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,20,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:40,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,15,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:26,06/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:29,09/11/2020,09/11/2020,10/11/2020
+,,85,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:50,09/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:54,07/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 18:32,06/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:57,07/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:53,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,68,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:52,08/11/2020,09/11/2020,10/11/2020
+,,79,SI,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:36,02/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,22,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:54,08/11/2020,09/11/2020,10/11/2020
+,,71,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:36,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:19,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 04:57,08/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:30,08/11/2020,09/11/2020,10/11/2020
+,,86,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:54,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,43,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 21:11,09/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:58,07/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 12:02,09/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 11:02,06/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 11:45,09/11/2020,09/11/2020,10/11/2020
+,,83,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,16,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:55,06/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 04:04,07/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 18:32,06/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. AREZZO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 18:04,07/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:25,09/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:52,09/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,,Positivo a bassa carica,09/11/2020 13:28,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:57,07/11/2020,09/11/2020,10/11/2020
+,,78,NO,Ospedale,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:42,09/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:29,08/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:53,06/11/2020,09/11/2020,10/11/2020
+,,78,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 04:04,07/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 08:47,09/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:25,06/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:43,05/11/2020,09/11/2020,10/11/2020
+,,18,SI,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 13:34,02/11/2020,09/11/2020,10/11/2020
+,,90,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:28,08/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:33,08/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,51,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 15:39,09/11/2020,09/11/2020,10/11/2020
+,,84,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:55,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:21,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:38,09/11/2020,09/11/2020,10/11/2020
+,,97,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:18,08/11/2020,09/11/2020,10/11/2020
+,,86,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:18,08/11/2020,09/11/2020,10/11/2020
+,,76,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,10/11/2020 13:19,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 08:48,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:37,09/11/2020,09/11/2020,10/11/2020
+,,46,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,,Positivo,09/11/2020 15:39,09/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:52,08/11/2020,09/11/2020,10/11/2020
+,,78,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:18,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,10,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 08:36,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,46,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:46,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,40,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:52,06/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,19,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,01/11/2020 13:05,29/10/2020,01/11/2020,10/11/2020
+,,77,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:48,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,40,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:48,05/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:24,09/11/2020,09/11/2020,10/11/2020
+,,42,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:52,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,11,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 08:52,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:24,06/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:49,06/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:52,06/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:54,07/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:59,09/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:53,07/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:09,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:48,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,57,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:43,06/11/2020,09/11/2020,10/11/2020
+,,13,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 18:40,06/11/2020,09/11/2020,10/11/2020
+,Isolamento domiciliare,50,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:54,08/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:14,08/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:41,09/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,01/11/2020 12:57,30/10/2020,01/11/2020,10/11/2020
+Contatto di Caso - Familiari,,51,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:09,08/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:03,09/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 12:28,09/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,40,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,01/11/2020 10:50,29/10/2020,01/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,60,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,31,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 11:00,04/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:29,08/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:53,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,35,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 07:43,07/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:50,06/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:51,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,24,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:22,06/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:13,06/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,In attesa di conferma di laboratorio,7,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo a Bassa Carica,03/11/2020 19:39,30/10/2020,03/11/2020,10/11/2020
+Contatto di Caso - Altro,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:48,06/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:21,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:37,08/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,65,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,06/11/2020 12:08,05/11/2020,06/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:33,08/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo a bassa carica,06/11/2020 08:39,05/11/2020,06/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:32,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,50,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:52,08/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:26,06/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:30,09/11/2020,09/11/2020,10/11/2020
+,,15,NO,Territorio,Lab. AOUMeyer,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:45,08/11/2020,09/11/2020,10/11/2020
+,,71,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:43,09/11/2020,09/11/2020,10/11/2020
+,,78,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:43,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:52,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,4,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:28,06/11/2020,09/11/2020,10/11/2020
+,,31,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:49,06/11/2020,09/11/2020,10/11/2020
+,,79,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:43,09/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 08:06,09/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:55,08/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 11:19,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:21,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 19:30,06/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:22,06/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:53,09/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:04,09/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:28,06/11/2020,09/11/2020,10/11/2020
+,,38,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo A Bassa Carica,05/11/2020 10:19,04/11/2020,05/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:10,08/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:57,08/11/2020,09/11/2020,10/11/2020
+,,88,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:19,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,77,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:12,09/11/2020,09/11/2020,10/11/2020
+,,91,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:19,05/11/2020,09/11/2020,10/11/2020
+,,77,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:19,05/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:57,08/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:25,09/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:03,09/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo a bassa carica,31/10/2020 13:30,28/10/2020,30/10/2020,10/11/2020
+Contatto di Caso - Familiari,,55,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:23,06/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,FI,F,RILEVATO,09/11/2020 17:09,05/11/2020,09/11/2020,10/11/2020
+,,88,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:56,07/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:32,08/11/2020,09/11/2020,10/11/2020
+,,46,NO,Ospedale,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:50,09/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 13:33,02/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:55,06/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:55,06/11/2020,09/11/2020,10/11/2020
+,,79,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:44,09/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:43,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,13,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 08:43,05/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:02,08/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 07:43,07/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:25,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:44,09/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:16,08/11/2020,09/11/2020,10/11/2020
+,,44,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:39,09/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:12,09/11/2020,09/11/2020,10/11/2020
+,,84,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 22:14,09/11/2020,09/11/2020,10/11/2020
+,,82,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:12,09/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,63,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:14,09/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 15:51,05/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:28,09/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,10/11/2020 13:27,09/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,39,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:19,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:55,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:28,08/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:10,08/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:37,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:38,09/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 19:04,09/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:55,07/11/2020,09/11/2020,10/11/2020
+,,67,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,10/11/2020 00:06,09/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:53,07/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:05,09/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,42,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo a bassa carica,04/11/2020 04:29,03/11/2020,04/11/2020,10/11/2020
+,,94,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:22,09/11/2020,09/11/2020,10/11/2020
+,,73,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,75,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 18:34,09/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:40,09/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:10,08/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:12,09/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:10,08/11/2020,09/11/2020,10/11/2020
+,,91,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:22,09/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 03:17,09/11/2020,09/11/2020,10/11/2020
+,,80,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 08:46,09/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:05,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:52,09/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:54,07/11/2020,09/11/2020,10/11/2020
+,,38,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo a Bassa Carica,05/11/2020 20:41,04/11/2020,05/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:26,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,81,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 19:11,09/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:50,06/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:03,09/11/2020,09/11/2020,10/11/2020
+,,43,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,10/11/2020 01:56,09/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 19:03,09/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:27,09/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:23,06/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 17:37,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 19:11,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:11,09/11/2020,09/11/2020,10/11/2020
+,,26,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 19:11,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 10:02,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,67,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:43,09/11/2020,09/11/2020,10/11/2020
+,,78,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 20:33,09/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 11:23,08/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PO,M,POSITIVO,09/11/2020 20:00,06/11/2020,09/11/2020,10/11/2020
+,,38,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 16:00,03/11/2020,09/11/2020,10/11/2020
+,,16,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo a Bassa Carica,01/11/2020 08:53,27/10/2020,01/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 17:29,08/11/2020,09/11/2020,10/11/2020
+,,26,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:46,09/11/2020,09/11/2020,10/11/2020
+,,58,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:27,06/11/2020,09/11/2020,10/11/2020
+,,15,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:44,05/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:36,08/11/2020,09/11/2020,10/11/2020
+,,80,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:00,08/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 11:33,09/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:50,09/11/2020,09/11/2020,10/11/2020
+,,55,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:03,08/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 12:42,09/11/2020,09/11/2020,10/11/2020
+,,72,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:45,08/11/2020,09/11/2020,10/11/2020
+,,83,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 18:57,09/11/2020,09/11/2020,10/11/2020
+,,87,SI,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 07:38,08/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 08:32,05/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:47,08/11/2020,09/11/2020,10/11/2020
+,,5,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 12:29,09/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 17:25,09/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,79,SI,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo a bassa carica,04/11/2020 11:49,03/11/2020,04/11/2020,10/11/2020
+,,82,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:18,08/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:38,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,41,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:42,08/11/2020,09/11/2020,10/11/2020
+,,36,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:47,08/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:45,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:15,09/11/2020,09/11/2020,10/11/2020
+,,19,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,24,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,19,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,57,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:37,08/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,10/11/2020 13:32,09/11/2020,09/11/2020,10/11/2020
+,,76,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+,,82,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:56,09/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 17:37,09/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 12:15,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,35,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 22:10,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 18:59,09/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:46,09/11/2020,09/11/2020,10/11/2020
+,,69,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:55,09/11/2020,09/11/2020,10/11/2020
+,,76,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:48,08/11/2020,09/11/2020,10/11/2020
+,,50,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:23,08/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:55,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. BIOCONTROL,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 05:19,07/11/2020,09/11/2020,10/11/2020
+,,58,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:20,08/11/2020,09/11/2020,10/11/2020
+,,1,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:48,06/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PO,F,RILEVATO,09/11/2020 20:49,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,11,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 03:10,07/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:58,08/11/2020,09/11/2020,10/11/2020
+,,87,SI,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 07:37,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,23,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 21:13,09/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:00,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:01,08/11/2020,09/11/2020,10/11/2020
+,,3,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:46,08/11/2020,09/11/2020,10/11/2020
+,,78,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:16,09/11/2020,09/11/2020,10/11/2020
+,,79,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:20,08/11/2020,09/11/2020,10/11/2020
+,,2,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:04,07/11/2020,09/11/2020,10/11/2020
+,,28,SI,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 07:17,08/11/2020,09/11/2020,10/11/2020
+,,80,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PO,M,POSITIVO,09/11/2020 16:35,06/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 18:00,06/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 06:52,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,33,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:25,09/11/2020,09/11/2020,10/11/2020
+,,62,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:20,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 19:24,09/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 19:24,09/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 19:24,09/11/2020,09/11/2020,10/11/2020
+,,70,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:01,08/11/2020,09/11/2020,10/11/2020
+,,15,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 08:57,07/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 11:21,08/11/2020,09/11/2020,10/11/2020
+,,17,NO,Ospedale,Lab. AOUMeyer,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 16:21,09/11/2020,09/11/2020,10/11/2020
+,,56,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,38,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:59,08/11/2020,09/11/2020,10/11/2020
+,,92,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+,,73,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:48,08/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:43,09/11/2020,09/11/2020,10/11/2020
+,,28,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 01:53,08/11/2020,09/11/2020,10/11/2020
+,,84,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:14,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:15,08/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:18,09/11/2020,09/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,64,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 23:50,06/11/2020,09/11/2020,10/11/2020
+,,24,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PO,M,POSITIVO,09/11/2020 15:39,02/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 23:49,06/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:22,09/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 11:21,08/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:23,09/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:47,08/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:44,09/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 11:21,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,59,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:46,08/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+,,24,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 07:43,07/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,10,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:47,08/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:11,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,76,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:37,08/11/2020,09/11/2020,10/11/2020
+,,71,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,11,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:29,05/11/2020,09/11/2020,10/11/2020
+,,26,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:41,08/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:54,08/11/2020,09/11/2020,10/11/2020
+,,5,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo a Bassa Carica,03/11/2020 21:20,31/10/2020,03/11/2020,10/11/2020
+,,5,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 11:18,08/11/2020,09/11/2020,10/11/2020
+,,31,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo a bassa carica,30/10/2020 10:19,27/10/2020,30/10/2020,10/11/2020
+,,62,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:19,08/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 00:52,07/11/2020,09/11/2020,10/11/2020
+,,13,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:46,08/11/2020,09/11/2020,10/11/2020
+,,33,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:21,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:43,08/11/2020,09/11/2020,10/11/2020
+,Isolamento domiciliare,41,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:44,08/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 23:51,06/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 03:10,07/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:21,09/11/2020,09/11/2020,10/11/2020
+,,72,SI,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 02:11,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,35,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 07:43,07/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:51,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo a Bassa Carica,23/10/2020 01:50,22/10/2020,23/10/2020,10/11/2020
+,,44,SI,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 07:37,08/11/2020,09/11/2020,10/11/2020
+,,36,NO,Ospedale,Lab. AOUMeyer,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 17:20,09/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 00:57,07/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,7,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:46,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,4,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:46,08/11/2020,09/11/2020,10/11/2020
+,,2,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:51,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,27,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:46,08/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:46,09/11/2020,09/11/2020,10/11/2020
+,,25,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:58,08/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 06:44,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 15:39,02/11/2020,09/11/2020,10/11/2020
+,,79,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 02:09,08/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 19:25,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,82,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:00,08/11/2020,09/11/2020,10/11/2020
+,,33,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:35,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,41,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:58,08/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:00,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 13:43,09/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:18,09/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 11:21,08/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:58,08/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:37,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo a bassa carica,03/11/2020 10:00,02/11/2020,03/11/2020,10/11/2020
+,,48,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:08,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,74,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,70,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 18:59,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 00:58,07/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,13,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo a Bassa Carica,09/11/2020 08:45,05/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:42,08/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 06:53,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:38,05/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 11:30,04/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:44,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:24,09/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:47,08/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 23:52,06/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:21,08/11/2020,09/11/2020,10/11/2020
+,Isolamento domiciliare,39,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:03,08/11/2020,09/11/2020,10/11/2020
+,,38,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,,Positivo,09/11/2020 10:46,09/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 03:15,09/11/2020,09/11/2020,10/11/2020
+,,32,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:37,08/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:43,09/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 11:30,04/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:11,09/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PO,M,RILEVATO,09/11/2020 20:07,06/11/2020,09/11/2020,10/11/2020
+,,29,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 11:20,08/11/2020,09/11/2020,10/11/2020
+,,5,NO,Ospedale,Lab. AOUMeyer,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 17:19,09/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 16:35,06/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:23,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:52,08/11/2020,09/11/2020,10/11/2020
+,,66,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:55,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,22,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 00:52,07/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,58,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 04:04,07/11/2020,09/11/2020,10/11/2020
+,Isolamento domiciliare,55,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 17:28,09/11/2020,09/11/2020,10/11/2020
+,,46,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:02,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,58,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+,,77,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,16,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:20,09/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:43,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+,,35,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:20,08/11/2020,09/11/2020,10/11/2020
+,,10,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:17,09/11/2020,09/11/2020,10/11/2020
+,,82,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:19,08/11/2020,09/11/2020,10/11/2020
+,Isolamento domiciliare,60,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+,,36,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:58,08/11/2020,09/11/2020,10/11/2020
+,,83,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:17,08/11/2020,09/11/2020,10/11/2020
+,,82,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 18:16,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,5,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 08:30,05/11/2020,09/11/2020,10/11/2020
+,,71,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:19,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,49,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 10:55,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PO,F,POSITIVO,09/11/2020 12:00,04/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+,,12,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 08:56,06/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 08:47,09/11/2020,09/11/2020,10/11/2020
+,,71,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 22:42,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,35,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:54,09/11/2020,09/11/2020,10/11/2020
+,,58,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,86,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 18:57,09/11/2020,09/11/2020,10/11/2020
+,,48,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,M,Positivo,09/11/2020 11:19,08/11/2020,09/11/2020,10/11/2020
+,,73,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PO,F,Positivo,09/11/2020 10:48,08/11/2020,09/11/2020,10/11/2020
+,,18,SI,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 12:43,09/11/2020,09/11/2020,10/11/2020
+,,86,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:30,09/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:30,09/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:00,04/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 01:52,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,38,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 01:52,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,47,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 11:20,08/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,85,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 07:37,08/11/2020,09/11/2020,10/11/2020
+,,18,SI,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:34,08/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:34,08/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:52,08/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:59,08/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:34,08/11/2020,09/11/2020,10/11/2020
+,,54,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 02:09,08/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 22:09,09/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,36,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 06:15,08/11/2020,09/11/2020,10/11/2020
+,,60,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:48,09/11/2020,09/11/2020,10/11/2020
+,,77,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:50,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:54,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+,,76,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,24,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 06:49,09/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 05:34,09/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 05:34,09/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+,,51,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 11:19,08/11/2020,09/11/2020,10/11/2020
+,,72,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:35,09/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 11:23,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,13,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 15:38,02/11/2020,09/11/2020,10/11/2020
+,,47,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:00,05/11/2020,09/11/2020,10/11/2020
+,,90,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 13:30,03/11/2020,09/11/2020,10/11/2020
+,,75,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 22:36,09/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:50,09/11/2020,09/11/2020,10/11/2020
+,,85,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,4,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 05:35,09/11/2020,09/11/2020,10/11/2020
+,,20,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:56,08/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:29,09/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,Isolamento domiciliare,55,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 10:48,08/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 05:35,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,68,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:29,09/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:25,09/11/2020,09/11/2020,10/11/2020
+,,34,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:35,09/11/2020,09/11/2020,10/11/2020
+,,33,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 01:53,08/11/2020,09/11/2020,10/11/2020
+,,70,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 22:36,09/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 06:15,08/11/2020,09/11/2020,10/11/2020
+,,51,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:34,09/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:50,09/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 10:49,08/11/2020,09/11/2020,10/11/2020
+,,36,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:31,09/11/2020,09/11/2020,10/11/2020
+,,77,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,92,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 14:30,06/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:35,09/11/2020,09/11/2020,10/11/2020
+,,15,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 08:57,07/11/2020,09/11/2020,10/11/2020
+,,31,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 17:55,06/11/2020,09/11/2020,10/11/2020
+,,84,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:34,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,7,SI,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 08:42,05/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:45,08/11/2020,09/11/2020,10/11/2020
+,,55,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 18:32,09/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,38,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 06:52,09/11/2020,09/11/2020,10/11/2020
+,,45,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 13:30,03/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,77,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 18:34,09/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 17:30,09/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 12:52,02/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:28,08/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:36,08/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 15:30,03/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:57,08/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 19:30,06/11/2020,09/11/2020,10/11/2020
+,,36,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:45,08/11/2020,09/11/2020,10/11/2020
+,,40,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 22:36,09/11/2020,09/11/2020,10/11/2020
+,,40,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 23:53,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 18:30,06/11/2020,09/11/2020,10/11/2020
+,,68,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 02:11,08/11/2020,09/11/2020,10/11/2020
+,,81,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 13:30,08/11/2020,09/11/2020,10/11/2020
+,,36,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:50,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:50,09/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:27,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,18,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 10:57,08/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 15:49,05/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:27,08/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 10:55,08/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,25,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,74,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:53,06/11/2020,09/11/2020,10/11/2020
+,,95,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 16:48,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,59,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:24,09/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:36,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,84,NO,Ospedale,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 13:23,09/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:52,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,50,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 21:03,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:37,08/11/2020,09/11/2020,10/11/2020
+,,92,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 02:37,08/11/2020,09/11/2020,10/11/2020
+,,13,SI,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 04:03,08/11/2020,09/11/2020,10/11/2020
+,,33,SI,Territorio,Lab.BIOLABOR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 14:00,06/11/2020,09/11/2020,10/11/2020
+,,24,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:31,09/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo a bassa carica,06/11/2020 03:10,05/11/2020,06/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 07:00,08/11/2020,09/11/2020,10/11/2020
+,,36,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 03:43,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:35,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,25,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:53,08/11/2020,09/11/2020,10/11/2020
+,,73,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 19:03,09/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo A Bassa Carica,07/11/2020 12:57,04/11/2020,07/11/2020,10/11/2020
+,,60,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 02:36,08/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 02:36,08/11/2020,09/11/2020,10/11/2020
+,,23,NO,Ospedale,Lab. AREZZO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:38,07/11/2020,09/11/2020,10/11/2020
+,,19,NO,Ospedale,Lab. AREZZO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:39,07/11/2020,09/11/2020,10/11/2020
+,,88,NO,Ospedale,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 21:39,09/11/2020,09/11/2020,10/11/2020
+,,12,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:15,06/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:51,08/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:54,06/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:55,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,30,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:39,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,54,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:43,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,26,SI,Ospedale,Lab. AREZZO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 04:32,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,48,NO,Ospedale,Lab. AREZZO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 04:29,06/11/2020,09/11/2020,10/11/2020
+,,86,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,9,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 18:41,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,63,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 14:15,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,7,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:13,06/11/2020,09/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:26,09/11/2020,09/11/2020,10/11/2020
+,,13,NO,Territorio,Lab. AOUMeyer,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:46,08/11/2020,09/11/2020,10/11/2020
+,,84,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:14,08/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:40,09/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab. SYNLAB,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:45,09/11/2020,09/11/2020,10/11/2020
+,,61,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:18,06/11/2020,09/11/2020,10/11/2020
+,,81,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:18,06/11/2020,09/11/2020,10/11/2020
+,,55,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:25,06/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:24,09/11/2020,09/11/2020,10/11/2020
+,,59,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 16:47,06/11/2020,09/11/2020,10/11/2020
+,,83,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 09:18,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,52,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo A Bassa Carica,28/10/2020 15:33,27/10/2020,28/10/2020,10/11/2020
+,,33,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 18:32,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,30,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 06:11,08/11/2020,09/11/2020,10/11/2020
+,,92,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,19,SI,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 01:51,08/11/2020,09/11/2020,10/11/2020
+,,89,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:43,09/11/2020,09/11/2020,10/11/2020
+,,21,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:26,06/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 02:37,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 02:36,08/11/2020,09/11/2020,10/11/2020
+,,12,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo A Bassa Carica,29/10/2020 17:26,28/10/2020,29/10/2020,10/11/2020
+Contatto di Caso - Altro,,82,NO,Ospedale,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:55,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 16:47,06/11/2020,09/11/2020,10/11/2020
+,,56,SI,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 16:47,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,18,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:13,06/11/2020,09/11/2020,10/11/2020
+,,90,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:05,09/11/2020,09/11/2020,10/11/2020
+,,26,SI,Ospedale,Lab. VIAREGGIO,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 09:06,08/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:05,09/11/2020,09/11/2020,10/11/2020
+,,57,SI,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 01:54,08/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:05,09/11/2020,09/11/2020,10/11/2020
+,In attesa di conferma di laboratorio,7,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo A Bassa Carica,04/11/2020 11:21,03/11/2020,04/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 23:53,06/11/2020,09/11/2020,10/11/2020
+,,58,NO,Territorio,Lab. AREZZO,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:33,07/11/2020,09/11/2020,10/11/2020
+,,88,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:05,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,29,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 23:53,06/11/2020,09/11/2020,10/11/2020
+,,10,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 11:03,06/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,28,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,FI,F,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:52,09/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 22:15,09/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 20:52,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,4,NO,Territorio,Lab. AOUMeyer,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 20:44,08/11/2020,09/11/2020,10/11/2020
+,,33,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:25,06/11/2020,09/11/2020,10/11/2020
+,,22,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:24,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,50,SI,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,FI,M,POSITIVO,09/11/2020 13:34,02/11/2020,09/11/2020,10/11/2020
+,,73,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 16:00,06/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,M,Positivo,09/11/2020 10:24,06/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:30,09/11/2020,09/11/2020,10/11/2020
+,,78,SI,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 10:53,09/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:28,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,38,NO,Territorio,Lab. TORREGALLI,<provenienza>,<comune>,FI,F,Positivo,09/11/2020 17:37,09/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:34,08/11/2020,09/11/2020,10/11/2020
+,,67,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:11,09/11/2020,09/11/2020,10/11/2020
+,,72,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 17:05,06/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 16:11,09/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 15:39,02/11/2020,09/11/2020,10/11/2020
+,,37,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 15:45,05/11/2020,09/11/2020,10/11/2020
+,,44,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 17:05,06/11/2020,09/11/2020,10/11/2020
+,,31,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 16:11,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,38,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,80,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 15:39,02/11/2020,09/11/2020,10/11/2020
+,,24,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo A Bassa Carica,07/11/2020 14:58,07/11/2020,07/11/2020,10/11/2020
+,,51,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+,,65,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:52,08/11/2020,09/11/2020,10/11/2020
+,,35,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:10,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:10,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,In attesa di conferma di laboratorio,23,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo A Bassa Carica,05/11/2020 13:53,04/11/2020,05/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 15:49,05/11/2020,09/11/2020,10/11/2020
+,,48,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 15:38,02/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. BIOMOLECOLAR,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 13:34,03/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 11:24,08/11/2020,09/11/2020,10/11/2020
+,,83,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 02:09,08/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+,,52,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 10:03,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,21,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:31,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 16:13,02/11/2020,09/11/2020,10/11/2020
+,,69,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:11,09/11/2020,09/11/2020,10/11/2020
+,,26,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 02:36,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:27,08/11/2020,09/11/2020,10/11/2020
+,,64,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 21:00,09/11/2020,09/11/2020,10/11/2020
+,,42,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:55,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:10,09/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,57,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:10,09/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,56,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,Isolamento domiciliare,48,SI,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 15:37,02/11/2020,09/11/2020,10/11/2020
+,,39,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. LIVORNO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 21:00,09/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 17:05,06/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 11:22,08/11/2020,09/11/2020,10/11/2020
+,,62,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 10:54,08/11/2020,09/11/2020,10/11/2020
+,,26,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 00:55,07/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. BIOCONTROL,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 05:11,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,8,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 07:38,08/11/2020,09/11/2020,10/11/2020
+,,70,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 15:39,09/11/2020,09/11/2020,10/11/2020
+,,21,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 15:48,08/11/2020,09/11/2020,10/11/2020
+,,22,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. LIFEBRAIN,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 12:51,02/11/2020,09/11/2020,10/11/2020
+,,68,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,34,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 20:51,09/11/2020,09/11/2020,10/11/2020
+,,53,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:41,08/11/2020,09/11/2020,10/11/2020
+,,29,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 16:13,02/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,37,NO,Territorio,Lab. AOUCAREGGI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 01:53,08/11/2020,09/11/2020,10/11/2020
+,,41,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,4,NO,Territorio,Lab. AOUPISA,<provenienza>,<comune>,PT,F,RILEVATO,09/11/2020 10:24,08/11/2020,09/11/2020,10/11/2020
+,,27,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+,,19,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Conviventi,,82,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 02:09,08/11/2020,09/11/2020,10/11/2020
+,,43,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:10,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,25,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:35,08/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 00:46,08/11/2020,09/11/2020,10/11/2020
+,,30,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,59,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 18:31,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,19,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:28,08/11/2020,09/11/2020,10/11/2020
+,,49,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 16:11,09/11/2020,09/11/2020,10/11/2020
+,,61,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:30,08/11/2020,09/11/2020,10/11/2020
+,,46,NO,Territorio,Lab. AOUSIENA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 01:16,08/11/2020,09/11/2020,10/11/2020
+,,69,NO,Ospedale,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 02:08,07/11/2020,09/11/2020,10/11/2020
+,,23,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 10:49,08/11/2020,09/11/2020,10/11/2020
+,,92,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 20:12,09/11/2020,09/11/2020,10/11/2020
+Contatto di Caso -,,13,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:51,05/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Altro,,63,NO,Territorio,Lab. EMPOLI,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 15:48,05/11/2020,09/11/2020,10/11/2020
+,,85,SI,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 08:53,09/11/2020,09/11/2020,10/11/2020
+,,50,NO,Territorio,Lab. PRATO,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:52,08/11/2020,09/11/2020,10/11/2020
+,,58,SI,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,F,POSITIVO,09/11/2020 16:13,02/11/2020,09/11/2020,10/11/2020
+,,28,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
+,,63,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:33,08/11/2020,09/11/2020,10/11/2020
+Contatto di Caso - Familiari,,41,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 09:29,08/11/2020,09/11/2020,10/11/2020
+,,26,NO,Ospedale,Lab. PISTOIA,<provenienza>,<comune>,PT,F,Positivo,09/11/2020 22:36,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. LAMM,<provenienza>,<comune>,PT,M,POSITIVO,09/11/2020 21:02,03/11/2020,09/11/2020,10/11/2020
+,,56,NO,Ospedale,Lab. AOUPISA,<provenienza>,<comune>,PT,M,RILEVATO,09/11/2020 09:52,09/11/2020,09/11/2020,10/11/2020
+,,66,NO,Territorio,Lab. PISTOIA,<provenienza>,<comune>,PT,M,Positivo,09/11/2020 09:32,08/11/2020,09/11/2020,10/11/2020
