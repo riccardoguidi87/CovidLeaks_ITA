@@ -44,7 +44,8 @@ df %>%
   ## labels
   labs(title = "Decessi da COVID19 fino a Giugno 2020",
        subtitle ="Regione Lombardia",
-       caption = "Fonte: COVIDLeaks: https://segnalazioni.soccorso-civile.it - Ass. Luca Coscioni\nChart: Riccardo Guidi",
+       caption = "Fonte: COVIDLeaks: https://segnalazioni.soccorso-civile.it - Ass. Luca Coscioni\nChart: Riccardo Guidi
+       Dati pervenuti su CovidLeaks non sono ufficiali ne verificabili, e potrebbero essere incompleti",
        tag = "") +
   ylab("Età") +
   xlab("Provincia") +

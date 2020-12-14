@@ -34,29 +34,16 @@ x <- df%>%
 # filter based on above + plotting
 df %>%
   filter(Comune %in% x) %>%
-  mutate(isVerona = str_detect(string = Comune, pattern = "\\b\\bVerona\\b")) %>%
-  filter(isVerona == TRUE) %>% view
+  mutate(isVerona = ifelse(str_detect(string = Comune, pattern = "^Verona$"),yes = "Verona",no =  "Fuori Verona")) %>%
   
   ggplot(aes(x=data, y= caso_positivo, color = Comune)) +
   #geom_smooth(method = "lm", se = FALSE,) +
   geom_line() +
-  facet_wrap(~isVerona) +
-  
-  
-  theme_bw()+
-  theme(legend.position = "none")
-
-df %>%
-  filter(Provincia %in% x) %>%
-  filter(!is.na(.)) %>%
-  
-  ggplot(aes(x=ProvName, y= Eta, fill = Sesso)) +
-  geom_boxplot(outlier.shape = NA) + 
-  #geom_jitter(alpha=0.1) +
+  facet_wrap(~isVerona, scales = "free") +
   
   ## labels
-  labs(title = "Distribuzione Casi Positivi SARS-CoV-19",
-       subtitle ="Tra 23 Ottobre e 10 Novembre - Regione Toscana",
+  labs(title = "Nuovi Casi Positivi SARS-CoV-19, per comune",
+       subtitle ="Novembre - Regione Veneto",
        caption = "Fonte: COVIDLeaks: https://segnalazioni.soccorso-civile.it - Ass. Luca Coscioni\nChart: Riccardo Guidi
        Dati pervenuti su CovidLeaks non sono ufficiali ne verificabili, e potrebbero essere incompleti",
        tag = "") +
@@ -71,6 +58,6 @@ df %>%
         title = element_text(colour = brewer.pal(n = 8, name = 'RdBu')[1],face = "bold"),
         axis.title = element_text(color = "black"),
         
-        legend.position = ,
-        legend.background = element_blank()
+        legend.position = "NULL"
   )
+
