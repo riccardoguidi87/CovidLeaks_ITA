@@ -1,0 +1,24 @@
+{
+    "id": "B2C87D7E",
+    "path": "~/Documents/GitHub/CovidLeaks_ITA/COVID.Leak.Project/Analisi1_Lombardia.R",
+    "project_path": "Analisi1_Lombardia.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608169577553.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "47,102",
+        "scrollLine": "30"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1607912608,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607912608,
+    "read_only": false,
+    "read_only_alternatives": []
+}
