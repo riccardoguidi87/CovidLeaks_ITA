@@ -111,7 +111,7 @@ covid_lombardia %>%
         axis.text.y = element_text(size=10,angle = 0,hjust = 1, colour = "black"),
         title = element_text(colour = brewer.pal(n = 8, name = 'RdBu')[2],face = "bold"),
         axis.title = element_text(color = "black"), 
-        legend.position = "bottom", 
+        legend.position = "top", 
         legend.text = element_text(face = "bold",size = 10)
         #legend.background = element_rect(size = 10)
         
